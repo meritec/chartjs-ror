@@ -10,5 +10,4 @@ module Chartjs
   end
 end
 
-require 'chartjs/engine'
 require "chartjs/version"
